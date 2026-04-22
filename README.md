@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1000&color=1A6B45&center=true&vCenter=true&width=600&lines=Joaquín+Gil+Apesteguia;Senior+Full+Stack+Developer;Software+Architect+%7C+SEO;Transformando+código+en+negocios" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hola,+soy+Joaqu%C3%ADn+Gil+Apesteguia;Senior+Full+Stack+Developer;Software+Architect+%7C+SEO;Transformando+c%C3%B3digo+en+negocio" alt="Typing Banner" />
 </div>
 
 <p align="center">
